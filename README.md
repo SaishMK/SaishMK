@@ -2,19 +2,23 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Saish.M.Kulkarni and I'm a Technical Consultant, from Kolhapur,Maharashtra Now Bengaluru Karnataka </p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left"> I like to debugg new things, eat new food and i love to play games , #
+  Certification
+  I have completed Google IT 
+  Aws Cloud Practitioner essentials   
+</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Mca  <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with </h2>
 
 ###
 
