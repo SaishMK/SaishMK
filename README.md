@@ -2,19 +2,21 @@
 
 ###
 
-<p align="left">My name is Saish.M.Kulkarni and I'm a Technical Consultant, from Kolhapur,Maharashtra Now Bengaluru Karnataka </p>
+<p align="left">Hi there! I'm Saish M. Kulkarni, a passionate Technical Consultant from Kolhapur, Maharashtra, currently based in Bengaluru, Karnataka. I love diving deep into debugging, exploring new cuisines, and indulging in gaming. </p>
 
 ###
 
 <p align="left"> I like to debugg new things, eat new food and i love to play games , 
-  Certification
-  I have completed Google IT ,
-  Aws Cloud Practitioner essentials   
+  - Create a dedicated section for your certifications and achievements:
+     ```markdown
+     ## Certifications
+     - Google IT Support Professional Certificate
+     - AWS Cloud Practitioner Essentials  
 </p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Mca  <br>🎯 Goals: just want a normal life <br>🎲 Fun fact: i am little short temper </p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Mca  <br>🎯 Goals:To contribute to impactful projects and grow as a technical consultant. <br>🎲 Fun fact: i am little short temper </p>
 
 ###
 
