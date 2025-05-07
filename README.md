@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Mca  <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Mca  <br>🎯 Goals: just want a normal life <br>🎲 Fun fact: i am little short temper </p>
 
 ###
 
