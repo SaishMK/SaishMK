@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left"> I like to debugg new things, eat new food and i love to play games , 
+<p align="left"> I like to debugg new things, eat new food and i love to play games , 
   Certification
   I have completed Google IT ,
   Aws Cloud Practitioner essentials   
-</h2>
+</p>
 
 ###
 
